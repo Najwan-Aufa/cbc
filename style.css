@@ -154,6 +154,8 @@ nav ul li a.active {
 #section1 {
   background-color: #080808;
   text-align: left;
+  margin: 0;
+  padding: 0;
 }
 
 #section2 {
